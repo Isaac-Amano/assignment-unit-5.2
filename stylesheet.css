@@ -1,0 +1,29 @@
+header {
+
+background-color: black; 
+color: aliceblue;
+text-align: center;
+
+
+}
+
+main {
+
+    background-color: whitesmoke;
+    padding: 1em;
+
+}
+
+body {
+
+    background-image: url('record.png');
+    background-color: whitesmoke;
+    background-repeat: repeat;
+    margin: 0;
+    padding: 1em;
+
+    
+}
+
+
+
